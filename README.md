@@ -1,2 +1,2 @@
-# colorGame (In process)
+# colorGame
 Color picker game
